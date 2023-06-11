@@ -1,1 +1,4 @@
-.env.local
+.env.*
+data/**
+!data/admins.dist
+!data/invitations.dist
